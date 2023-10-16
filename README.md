@@ -1,4 +1,4 @@
-# Biblioteca para pasar a escala de grises imagenes y enviarlas por correo
+<h1 align="center"> Biblioteca para pasar a escala de grises imagenes y enviarlas por correo </h1>
 ## Proyecto final del curso Python nivel 2 de la academia tecnológica de la UCR.
 ## Estudiante Huberth Perez. 
  En el presente repositorio de código encontrarás mis proyecto final.
