@@ -18,7 +18,15 @@ LONG_DESC_TYPE = "text/markdown"
 
 #Paquetes necesarios para que funcione la libreía. Se instalarán a la vez si no lo tuvieras ya instalado
 INSTALL_REQUIRES = [
-      'pymupdf'
+      'pillow',
+      'requests',
+      'unittest',
+      'io',
+      'smtplib',
+      'ssl',
+      'threading',
+      'email',
+      'unittest'
       ]
 
 setup(
