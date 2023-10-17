@@ -1,5 +1,6 @@
 LICENSE
 README.md
+pyproject.toml
 setup.py
 proyectofinal_imagenes_correos.egg-info/PKG-INFO
 proyectofinal_imagenes_correos.egg-info/SOURCES.txt
