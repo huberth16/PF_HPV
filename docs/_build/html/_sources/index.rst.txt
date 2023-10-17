@@ -3,16 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Imagenes grises's documentation!
-===========================================
+Bienvenido a la documentación de la librería Imagenes grises!
+=============================================================
+Autor: Huberth Pérez
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-introduccion/intro.rst
-funciones/funciones.rst
-pruebas/pruebas.rst
+   introduccion/intro.rst
+   funciones/funciones.rst
+   pruebas/pruebas.rst
 
 Indices and tables
 ==================
