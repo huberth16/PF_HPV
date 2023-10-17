@@ -1,0 +1,9 @@
+email
+io
+pillow
+requests
+smtplib
+ssl
+threading
+unittest
+unittest

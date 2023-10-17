@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+proyectofinal_imagenes_correos.egg-info/PKG-INFO
+proyectofinal_imagenes_correos.egg-info/SOURCES.txt
+proyectofinal_imagenes_correos.egg-info/dependency_links.txt
+proyectofinal_imagenes_correos.egg-info/requires.txt
+proyectofinal_imagenes_correos.egg-info/top_level.txt
+src/__init__.py
+src/images.py
+src/mymail.py
+src/pruebas_correos.py
+src/pruebas_imagenes.py
